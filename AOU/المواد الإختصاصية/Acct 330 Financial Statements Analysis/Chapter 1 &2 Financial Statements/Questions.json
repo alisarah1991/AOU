@@ -1,0 +1,718 @@
+[
+  {
+    "type": "text",
+    "question": "A company has $500 equity and has $200 liability, so the total assets are equal to:",
+    "options": [
+      "$700",
+      "$300",
+      "$500",
+      "$200"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "A company had total liability of $560 and total assets of $700. What is the balance of the stockholders’ equity?",
+    "options": [
+      "$1260",
+      "$140",
+      "$700",
+      "$200"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "If the total assets equal to $9000 and the current assets equal to $500, the non-current assets should be equal to:",
+    "options": [
+      "$9500",
+      "$9000",
+      "$8500",
+      "$500"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Retained earnings are part of",
+    "options": [
+      "Interest rate",
+      "Sale",
+      "Current assets",
+      "Equity"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a component of the balance sheets?",
+    "options": [
+      "Inventories",
+      "Interest paid",
+      "Account receivable",
+      "Account payable"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not an asset?",
+    "options": [
+      "Goodwill",
+      "Inventories",
+      "Account payable",
+      "Cash"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a liability?",
+    "options": [
+      "Account payable",
+      "Dividend payable",
+      "Long term loan",
+      "Cash"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a current asset?",
+    "options": [
+      "Cash",
+      "Inventories",
+      "Fixed assets",
+      "Account receivable"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a current liability?",
+    "options": [
+      "Account payable",
+      "Dividend payable",
+      "Long term debt",
+      "Short term borrowing"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a Non-current asset?",
+    "options": [
+      "Cash",
+      "Goodwill",
+      "Equipment",
+      "Long term investment in associated companies"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "Cash and assets that will be converted into cash during the operating cycle or within a year",
+    "options": [
+      "Total assets",
+      "Current assets",
+      "Saving account",
+      "Current liabilities"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "One of the characteristics of sole proprietorship is ….",
+    "options": [
+      "That it owned by two or more individuals",
+      "That their ownership is separated from the ownership of the owner",
+      "That the profits are treated as a separate entity on an income tax return",
+      "That the accountant treats the business as a separate accounting entity"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "The Current Liabilities section of the balance sheet should include",
+    "options": [
+      "Land",
+      "Accounts Payable",
+      "Bonds Payable",
+      "Preferred Stock"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "At any point in time, the total amount of the contributions of the creditors must equal.",
+    "options": [
+      "Total Assets",
+      "Total assets minus total amount of the contributions of the owners",
+      "Total liabilities",
+      "Sale"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "One of the characteristics of sole proprietorship is ….",
+    "options": [
+      "That it owned by two or more individuals",
+      "That their ownership is separated from the ownership of the owner",
+      "That the profits are treated as a separate entity on an income tax return",
+      "That the accountant treats the business as a separate accounting entity"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Cash and assets that will be converted into cash during the operating cycle or within a year,",
+    "options": [
+      "Total assets",
+      "Current assets",
+      "Saving account",
+      "Current liabilities"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a non-current asset?",
+    "options": [
+      "Cash",
+      "Goodwill",
+      "Equipment",
+      "Long term investment in associated companies"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a current liability?",
+    "options": [
+      "Account payable",
+      "Dividend payable",
+      "Long term debt",
+      "Short term borrowing"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a current asset?",
+    "options": [
+      "Cash",
+      "Inventories",
+      "Fixed assets",
+      "Account receivable"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a liability?",
+    "options": [
+      "Account payable",
+      "Dividend payable",
+      "Long term loan",
+      "Cash"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not an asset?",
+    "options": [
+      "Goodwill",
+      "Inventories",
+      "Account payable",
+      "Cash"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a component of the balance sheets?",
+    "options": [
+      "Inventories",
+      "Interest paid",
+      "Account receivable",
+      "Account payable"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Retained earnings are part of",
+    "options": [
+      "Interest rate",
+      "Sale",
+      "Current assets",
+      "Equity"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "A company has $500 liabilities and has $100 equity, so the total assets are equal to:",
+    "options": [
+      "$600",
+      "$400",
+      "$5",
+      "$50"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "A company had total assets of $900 and total liabilities of $400. What is the balance of the stockholders’ equity?",
+    "options": [
+      "$1300",
+      "$500",
+      "$900",
+      "$400"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "If the current assets equal to $800 and the total assets equal to $1000, the non-current assets should be equal to:",
+    "options": [
+      "$800",
+      "$1000",
+      "$200",
+      "$1800"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "If current assets exceed current liabilities, payments to creditors made on the last day of the month will:",
+    "options": [
+      "decrease net working capital.",
+      "decrease current ratio.",
+      "have no effect on either the current ratio or net working capital.",
+      "increase current ratio.",
+      "increase net working capital."
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "If a company converted a short-term note payable into a long-term note payable, this transaction would:",
+    "options": [
+      "increase only working capital.",
+      "increase both working capital and the current ratio.",
+      "decrease both working capital and the current ratio.",
+      "decrease only working capital.",
+      "have no effect on either the current ratio or net working capital."
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "A company has a current ratio of 2 to 1. This ratio will decrease if the company:",
+    "options": [
+      "borrows cash on a six-month note.",
+      "pays a large account payable which had been a current liability.",
+      "sells merchandise for more than cost and records the sale using the perpetual inventory method.",
+      "receives a 5 percent stock dividend on one of its marketable securities.",
+      "None of these choices are correct."
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "Which of the following transactions would increase a company's positive current ratio?",
+    "options": [
+      "Use the equity method to reflect earnings of an investee",
+      "Sell a temporary investment at a loss",
+      "Borrow money on a short-term note",
+      "Repay the principal on a short-term note",
+      "None of these choices would increase a company's positive current ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "The amount of working capital would not be affected by which of the following transactions?",
+    "options": [
+      "Sale of long-term investments for cash at a loss",
+      "Transfer of a long-term investment for cash",
+      "Issuance of common shares of the corporation in exchange for noncurrent assets",
+      "Issuance of a long-term note in exchange for cash",
+      "All of these choices would affect working capital"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Statements in which all items are expressed only in relative terms and discontinued operations (percentages of a base) are termed:",
+    "options": [
+      "Vertical statement",
+      "Horizontal statement",
+      "Fund statement",
+      "Common-Size statement"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Gross profit is the difference between:",
+    "options": [
+      "Net income and operating income",
+      "Revenues and expense",
+      "Sales and cost of goods sold",
+      "Income from continuing operations"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "The current asset section of the balance sheet should include:",
+    "options": [
+      "Land",
+      "Trademark",
+      "Dividends payable",
+      "Inventory"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Liquidity ratios measure the degree of protection of long-term suppliers of funds.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following would not be a user of financial statements?",
+    "options": [
+      "Management",
+      "Bankers",
+      "Employee unions",
+      "Investment analysts",
+      "All of the answers are users."
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "Liquidity ratios can be used:",
+    "options": [
+      "to measure the degree of protection of long-term suppliers of funds.",
+      "to measure borrowing capacity.",
+      "to measure the earning ability of a firm.",
+      "to measure the firm's ability to meet its current obligations.",
+      "to measure the worth of the firm."
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Which of the following types of businesses would normally have the shortest operating cycle?",
+    "options": [
+      "A retail clothing store",
+      "A grocery store",
+      "A wholesale furniture store",
+      "A car manufacturer",
+      "A car dealer"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following would be included in operating income?",
+    "options": [
+      "Interest income for a manufacturing firm",
+      "Rent income for a leasing subsidiary",
+      "Gain from sale of marketable securities for a retailer",
+      "Dividend income for a service firm",
+      "None of the answers are correct."
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "The current asset section of the balance sheet should include:",
+    "options": [
+      "Land",
+      "Trademark",
+      "Dividends payable",
+      "Inventory"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "Which of the following ratios can be used as a guide to a firm's ability to carry debt from an income perspective?",
+    "options": [
+      "Debt ratio",
+      "Debt to tangible net worth",
+      "Debt/equity",
+      "Times interest earned",
+      "Current ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "There is disagreement on all but which of the following items as to whether it should be considered a liability in the debt ratio?",
+    "options": [
+      "Short-term liabilities",
+      "Reserve accounts",
+      "Deferred taxes",
+      "Noncontrolling income (loss)",
+      "Preferred stock"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "A firm may have substantial liabilities that are not disclosed on the face of the balance sheet from all but which of the following?",
+    "options": [
+      "Leases",
+      "Pension plans",
+      "Joint ventures",
+      "Contingencies",
+      "Bonds payable"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "In computing the debt ratio, which of the following is subtracted in the denominator?",
+    "options": [
+      "Copyrights",
+      "Trademarks",
+      "Patents",
+      "Marketable securities",
+      "None of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "All but which of these ratios are considered to be debt ratios?",
+    "options": [
+      "Times interest earned",
+      "Debt ratio",
+      "Debt/equity",
+      "Fixed charge ratio",
+      "Current ratio"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "Which of the following items would be classified as operating revenue or expense on an income statement of a manufacturing firm?",
+    "options": [
+      "Interest expense",
+      "Advertising expense",
+      "Equity income",
+      "Dividend income",
+      "Cumulative effect of change in accounting principle"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is a recurring item?",
+    "options": [
+      "Error of a prior period",
+      "Equity in earnings of nonconsolidated subsidiaries",
+      "Extraordinary loss",
+      "Cumulative effect of change in accounting principle",
+      "Discontinued operations"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following items are considered to be non-recurring items?",
+    "options": [
+      "Equity earnings",
+      "Unusual or infrequent item disclosed separately",
+      "Discontinued operations",
+      "Extraordinary item",
+      "C and D"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "Which of the following would be classified as an extraordinary item on the income statement?",
+    "options": [
+      "Loss from tornado",
+      "Loss on disposal of a segment of business",
+      "Write-down of inventory",
+      "Correction of an error of the current period",
+      "Loss from strike"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is true when a cash dividend is declared and paid? The firm is left with a liability to pay the dividend.",
+    "options": [
+      "Retained earnings is reduced by the amount of the dividend.",
+      "Retained earnings is increased by the amount of the dividend.",
+      "Retained earnings is not influenced by the dividend.",
+      "Stockholders' equity is increased."
+    ],
+    "correct": 0
+  },
+  {
+    "type": "text",
+    "question": "Which of the following would be classified as an extraordinary item on the income statement?",
+    "options": [
+      "Loss on disposal of a segment of business",
+      "Cumulative effect of a change in accounting principle",
+      "A sale of fixed assets",
+      "An error correction that relates to a prior year",
+      "A loss from a flood in a location that would not be expected to flood"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "Which of the following will not be disclosed in retained earnings?",
+    "options": [
+      "Declaration of a stock dividend",
+      "Adjustment for an error of the current period",
+      "Adjustment for an error of a prior period",
+      "Net income",
+      "Net loss"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of the following is not a category within accumulated other comprehensive income?",
+    "options": [
+      "Foreign currency translation adjustments",
+      "Unrealized holding gains and losses on available-for-sale marketable securities",
+      "Changes to stockholders' equity resulting from additional minimum pension ability",
+      "Unrealized gains and losses from derivative instruments",
+      "Extraordinary item"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "Which of the following ratios can be used as a guide to a firm's ability to carry debt from an income perspective?",
+    "options": [
+      "Debt ratio",
+      "Debt to tangible net worth",
+      "Debt/equity",
+      "Times interest earned",
+      "Current ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "There is disagreement on all but which of the following items as to whether it should be considered a liability in the debt ratio?",
+    "options": [
+      "Short-term liabilities",
+      "Reserve accounts",
+      "Deferred taxes",
+      "Noncontrolling income (loss)",
+      "Preferred stock"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "text",
+    "question": "A firm may have substantial liabilities that are not disclosed on the face of the balance sheet from all but which of the following?",
+    "options": [
+      "Leases",
+      "Pension plans",
+      "Joint ventures",
+      "Contingencies",
+      "Bonds payable"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "In computing the debt ratio, which of the following is subtracted in the denominator?",
+    "options": [
+      "Copyrights",
+      "Trademarks",
+      "Patents",
+      "Marketable securities",
+      "None of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "All but which of these ratios are considered to be debt ratios?",
+    "options": [
+      "Times interest earned",
+      "Debt ratio",
+      "Debt/equity",
+      "Fixed charge ratio",
+      "Current ratio"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "In computing debt to tangible net worth, which of the following is not subtracted in the denominator?",
+    "options": [
+      "Patents",
+      "Goodwill",
+      "Land",
+      "Bonds payable",
+      "Both C and D"
+    ],
+    "correct": 4
+  },
+  {
+    "type": "text",
+    "question": "The ratio fixed charge coverage",
+    "options": [
+      "Is a cash flow indication of debt-paying ability.",
+      "Is an income statement indication of debt-paying ability.",
+      "Is a balance sheet indication of debt-paying ability.",
+      "Will usually be higher than the times interest earned ratio.",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Which of these items does not represent a definite commitment to pay out funds in the future?",
+    "options": [
+      "Notes payable",
+      "Bonds payable",
+      "Noncontrolling interests",
+      "Wages payable",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "text",
+    "question": "Current assets include assets that take longer than one year or operating cycle to convert or conserve cash",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "text",
+    "question": "Land is not subject to depreciation",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct": 0
+  }
+]

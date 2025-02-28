@@ -1,0 +1,393 @@
+[
+	  {
+		"type": "image",
+		"question_image": "Math/1.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/2.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/3.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/4.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+      {
+		"type": "image",
+		"question_image": "Math/5.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/6.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/7.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/8.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/9.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/10.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/11.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/12.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/13.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/14.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/15.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/16.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/17.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/18.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/19.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/20.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/21.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/22.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/23.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/24.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/25.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/26.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/27.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/28.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/29.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/30.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/31.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/32.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/33.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/34.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/35.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/36.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/37.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/38.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/39.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/40.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/41.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/42.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/43.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/44.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/45.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/46.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/47.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/48.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/49.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/50.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/51.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/52.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/53.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/54.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/55.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/56.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/57.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/58.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 1
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/59.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/60.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/61.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 3
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/62.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/63.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/64.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 2
+	  },
+	  {
+		"type": "image",
+		"question_image": "Math/65.PNG",
+		"options": ["A", "B", "C", "D"],
+		"correct": 0
+	  }
+	  
+]
